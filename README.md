@@ -9,7 +9,7 @@ Projeto feito com um Dataset com dados da Uber na cidade de Nova York em abril d
 ### Screenshots
 
 <p align="center">
-    <img src="./screens/img1.png">
-    <img src="./screens/img2.png">
-    <img src="./screens/img3.png">
+    <img src="https://github.com/lucashec/uber-data-analysis/blob/master/screens/img1.png?raw=true">
+    <img src="https://github.com/lucashec/uber-data-analysis/blob/master/screens/img2.png?raw=true">
+    <img src="https://github.com/lucashec/uber-data-analysis/blob/master/screens/img3.png?raw=true">
 </p>
